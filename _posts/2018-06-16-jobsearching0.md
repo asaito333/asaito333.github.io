@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #0 アメリカ地方大学院生が就活して内定をとる話
+title: 0 アメリカ地方大学院生が就活して内定をとる話
 date: 2018-06-16 13:32:20 +0300
 description: 
 img:  jobsearching.png # Add image post (optional)

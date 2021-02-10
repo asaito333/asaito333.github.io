@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #2 LinkedInプロフィールの作り方
+title: 2 LinkedInプロフィールの作り方
 date: 2018-06-18 13:32:20 +0300
 description: 
 img:  jobsearching.png # Add image post (optional)

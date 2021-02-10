@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #1 なぜアメリカの就活ではLinkedInがゴリ押しされるのか？
+title: 1 なぜアメリカの就活ではLinkedInがゴリ押しされるのか？
 date: 2018-06-17 13:32:20 +0300
 description: 
 img:  jobsearching.png # Add image post (optional)
