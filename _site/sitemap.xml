@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://asaito333.github.io/jobsearching0/</loc>
+<lastmod>2018-06-16T19:32:20+09:00</lastmod>
+</url>
+<url>
+<loc>https://asaito333.github.io/jobsearching1/</loc>
+<lastmod>2018-06-17T19:32:20+09:00</lastmod>
+</url>
+<url>
+<loc>https://asaito333.github.io/jobsearching2/</loc>
+<lastmod>2018-06-18T19:32:20+09:00</lastmod>
+</url>
+<url>
+<loc>https://asaito333.github.io/jobsearching3/</loc>
+<lastmod>2018-06-19T19:32:20+09:00</lastmod>
+</url>
+<url>
+<loc>https://asaito333.github.io/jobsearching4/</loc>
+<lastmod>2018-06-20T19:32:20+09:00</lastmod>
+</url>
+<url>
 <loc>https://asaito333.github.io/perception/</loc>
 <lastmod>2021-01-01T19:32:20+09:00</lastmod>
 </url>
@@ -21,5 +41,8 @@
 </url>
 <url>
 <loc>https://asaito333.github.io/tags/</loc>
+</url>
+<url>
+<loc>https://asaito333.github.io/page/2/</loc>
 </url>
 </urlset>
